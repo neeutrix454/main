@@ -24,7 +24,7 @@ mkdir -p $TEMP_DIR
 cd $TEMP_DIR
 
 # GitHub repository URL
-REPO_DIR="/home/minipc/Pobrane/mt7902driverforlinux-main"
+REPO_URL="https://github.com/neeutrix454/main/blob/main"
 
 # List of files to download
 FILES=(
